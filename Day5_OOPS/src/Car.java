@@ -17,15 +17,15 @@ public class Car {
 	}
 	
 	void display1() {
-		System.out.println("Welcoma to Audi Motors");
+		System.out.println("Welcome to Audi Motors");
 	}
 	
 	void display2() {
-		System.out.println("Welcoma to Hyundai Motors");
+		System.out.println("Welcome to Hyundai Motors");
 	}
 	
 	void display3() {
-		System.out.println("Welcoma to Kia-Motors");
+		System.out.println("Welcome to Kia-Motors");
 	}
 	
 	
